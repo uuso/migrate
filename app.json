@@ -1,0 +1,6 @@
+{
+  "name": "Personal app",
+  "description": "Personal app on Heroku",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ]
+}
